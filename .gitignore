@@ -1,6 +1,8 @@
 *.pdf
 *.npy
-*.txt.gz
+*.gz
 *.json
 *.pkl
 *.ods
+*.txt
+*.csv
